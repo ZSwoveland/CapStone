@@ -5,7 +5,7 @@ require_once 'VillainSelect.php';
 
 Class HP{
     
-    public function VHPCacl($n,$s,$p){
+    public function VHPCalc($n,$s,$p){
         $villain = new VillainSelect();
         return $villain->VillainHPCalc(n, $s, $p);
     }

@@ -10,7 +10,12 @@ Class Hero{
         $this->health = $y;
     }
 
-
+    public function setName($x){
+        $this->name=$x;
+    }
+    public function getName(){
+        return $name;
+    }
 
 }
 
