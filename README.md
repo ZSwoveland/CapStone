@@ -14,4 +14,9 @@ To run the program download the Code and download MAMP or XAMP folder. Once done
 
 This application is not hosted on a server yet it can be used on your LocalHost as of right now.
 
+The diagrams on can be accessed in the diagrams portion of the GitHub Repository.
+I tried to make the diagrams as close as the players are used to coming from Marvel Champions or other Card Games Like Magic or HearthStone.
+The Dial Up and Down can be a lot for some players since some Villains can hit for 10 to as little as 0 HP per turn. 
+I will also put my Final Project Proposal on GitHub to show the process and future Ideas for the application.
+
 Thank You for testing and using the Web Application
