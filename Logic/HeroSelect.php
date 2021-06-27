@@ -1,6 +1,5 @@
 <?php 
 require_once('ConnectDB.php');
-
 Class HeroSelect{
 //Creates a connection the search the DB
 public function selectFromDB($Name){
